@@ -21,22 +21,22 @@ pip install spacy pandas scikit-learn seaborn matplotlib gensim tqdm
 Make sure to download the spaCy model for processing English text:
 python -m spacy download en_core_web_sm
 
-## Lab Activities Overview
-### Lab Activity 1: Processing Movie Reviews
+## Activities Overview
+### Activity 1: Processing Movie Reviews
 This activity processes a dataset of movie reviews and performs the following:
 1. Extracts adjectives and named entities (PERSON, NORP, FAC, ORG)
 2. Counts the number of sentences in each review
 3. Visualizes the distribution of sentence counts by sentiment (positive/negative)
 4. Displays the most frequent adjectives and entities for each sentiment category
 
-### Lab Activity 2: Topic Modeling on Movie Reviews
+### Activity 2: Topic Modeling on Movie Reviews
 In this activity, we perform topic modeling on the movie reviews using Latent Dirichlet Allocation (LDA). It includes the following steps:
 1. Preprocessing the reviews (tokenizing, lemmatizing, and stopword removal)
 2. Vectorizing the reviews using CountVectorizer
 3. Training an LDA model to discover the underlying topics in the reviews
 4. Displaying the top words associated with each topic
 
-### Lab Activity 3: Training Word Embedding on Movie Reviews
+### Activity 3: Training Word Embedding on Movie Reviews
 In this lab, we train word embeddings using the Word2Vec model on movie reviews:
 1. Preprocessing the reviews into tokenized sentences
 2. Training a Word2Vec model to generate vector representations of words
