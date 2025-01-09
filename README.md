@@ -21,6 +21,8 @@ pip install spacy pandas scikit-learn seaborn matplotlib gensim tqdm
 Make sure to download the spaCy model for processing English text:
 python -m spacy download en_core_web_sm
 
+Link to Data: https://drive.google.com/file/d/1jGfZ91-CyS5E5DgPKbck_ABO8MnpzL8f/view?usp=sharing
+
 ## Activities Overview
 ### Activity 1: Processing Movie Reviews
 This activity processes a dataset of movie reviews and performs the following:
