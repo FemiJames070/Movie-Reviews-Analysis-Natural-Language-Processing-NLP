@@ -58,5 +58,11 @@ The scripts will produce the following outputs:
 2. Activity 2: The top words for each discovered topic using LDA.
 3. Activity 3: Similarity scores between pairs of words using spaCy and Word2Vec.
 
+### Prediction
+Negative and Postive Review to Test the model
+
+### Evaluation
+Accuracy: 84.64%
+
 ### Contributions
 Feel free to fork the repository, make improvements, and create pull requests.
