@@ -1,5 +1,5 @@
 # Movie Reviews Analysis and Word Embedding - Natural Language Processing (NLP)
-This repository contains multiple lab activities focused on analyzing and processing movie reviews using natural language processing (NLP) and machine learning techniques. 
+This repository contains multiple lab activities focused on analyzing and processing movie reviews using natural language processing (NLP) and machine learning techniques (Logistic Regression Classifier). 
 
 ### The activities include:
 1. Activity 1: Processing Movie Reviews
@@ -58,7 +58,7 @@ The scripts will produce the following outputs:
 2. Activity 2: The top words for each discovered topic using LDA.
 3. Activity 3: Similarity scores between pairs of words using spaCy and Word2Vec.
 
-### Prediction
+### Prediction with Logistic Regression Classifier
 Negative and Postive Review to Test the model
 
 ### Evaluation
